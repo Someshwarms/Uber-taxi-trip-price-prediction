@@ -3,6 +3,26 @@
 About this file:
 
 This data consists of 8 columns and 205,672 rows.
+ 
+ Clumns present in the dataset
+ 
+Unnamed: 0 
+
+fare_amount 
+
+pickup_datetime 
+
+pickup_longitude
+
+pickup_latitude
+
+dropoff_longitude 
+
+dropoff_latitude
+
+passenger_count
+
+
 
 
 Link of the dataset for this project:https://www.kaggle.com/sanjaysuthraye96/uber-location-price-data.
